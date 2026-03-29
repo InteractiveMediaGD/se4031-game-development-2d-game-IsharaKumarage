@@ -1,9 +1,8 @@
 # Game Documentation 
 
 **Game Title:** Broken Warrior: Time Traveller Run  
-**Student Name:** [Your Name Here]  
-**IT Number:** [Your IT Number Here]  
-
+**Student Name:** Kumarage M.B.S.I.E
+**IT Number:** IT22606556
 ---
 
 ## 1. Summary of the Game Concept
@@ -74,4 +73,3 @@ When an attack is triggered:
 ## 7. Video Link
 
 **Gameplay Demonstration Video:** 
-[Paste your YouTube / Google Drive Video URL Here]
